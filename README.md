@@ -1,6 +1,6 @@
 # Hello!
 
-> This is a test to ensure my new GitHub account is ready to go
+> This is my account for Big Loud project management
 
 
 <!--
